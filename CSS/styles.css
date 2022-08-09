@@ -17,6 +17,14 @@ p {
     color: hsl(220, 15%, 55%);
 }
 
+a {
+    color: hsl(220, 15%, 55%);
+}
+
+a:hover {
+    color: black;
+}
+
 .container {
     width: 20%;
     margin: auto;
